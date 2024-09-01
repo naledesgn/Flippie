@@ -810,6 +810,7 @@
 }
 
 .menu-description-wrapper {
+  overflow-x: none;
   outline-offset: -1em;
   background-color: #f4d2d8;
   background-image: url('../images/fruit_toneontone_pink.svg');
